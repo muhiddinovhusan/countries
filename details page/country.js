@@ -64,5 +64,5 @@ getCountries();
 
 
   btn.addEventListener('click',function(){
-    location.href ="/mainpage/index.html"
+    location.href ="/index.html"
   })
